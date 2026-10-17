@@ -15,7 +15,7 @@
 
 ### 🔭 What I'm building
 
-**[Vitnify](https://vitnify.com)** is my answer to the question I spent 15 years asking as a threat hunter: *what actually happened?* It lets you re-run an AI agent's model and get bit-identical output, then check a signed record of the whole run offline. Built end to end:
+**[Vitnify](https://vitnify.com)** is my answer to the question I spent 20+ years asking as a threat hunter: *what actually happened?* It lets you re-run an AI agent's model and get bit-identical output, then check a signed record of the whole run offline. Built end to end:
 
 - 🧠 **[vitni-tensor](https://github.com/vitnify/vitni-tensor):** a deterministic, `no_std` Rust inference engine with **bit-identical** LLM output across CPU vendors, instruction sets, and GPUs. Verified byte-for-byte on Apple, AWS Graviton, Intel, AMD, Metal, and CUDA (pinned-order reductions + exact-integer k-quant kernels).
 - 📜 **[vitnify](https://github.com/vitnify/vitnify)** + **[vitnify-receipt-spec](https://github.com/vitnify/vitnify-receipt-spec)**: an open protocol and SDK for **tamper-evident, offline-verifiable** agent execution receipts (BLAKE3 Merkle + ed25519), with LangGraph and MCP drop-ins. `pip install vitnify`.
