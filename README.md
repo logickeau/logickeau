@@ -37,4 +37,4 @@ I've been hunting threats my whole career, just in different domains. As a comba
 
 `Rust` · `Python` · `TypeScript` · LLM / GGUF / quantization · cryptography (ed25519, BLAKE3, Merkle) · AI-agent &amp; MCP security · deterministic / reproducible ML · AWS · PostgreSQL
 
-<p align="center"><em>I'd rather build it than diagram it. Open to senior / principal engineering roles in AI security.</em></p>
+<p align="center"><em>I'd rather build it than diagram it.</em></p>
