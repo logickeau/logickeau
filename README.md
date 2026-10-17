@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="https://vitnify.com">vitnify.com</a> ·
-  <a href="https://www.linkedin.com/in/jean-n-pijeau">LinkedIn</a> ·
-  Austin, TX
+  <a target="_blank" href="https://vitnify.com">vitnify.com</a> ·
+  <a target="_blank" href="https://www.linkedin.com/in/jean-n-pijeau">LinkedIn</a> ·
+  Orlando, FL
 </p>
 
 ---
